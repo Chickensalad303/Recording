@@ -1,4 +1,6 @@
 # Quartz v5
+https://chickensalad303.github.io/Recording/catalyst
+
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
