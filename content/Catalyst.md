@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21T14:41:06.194+02:00
-modified: 2026-07-22T01:14:03.861+02:00
+modified: 2026-07-22T01:16:24.806+02:00
 ---
 
 - 1&2: Neve preamp (tge british)
@@ -281,57 +281,3 @@ After having mastered, Use a spectrum analyzer like tonal balance control. You c
 In comparison to mixing pro mastering takes like ~30min
 
 Every mix you make make a dolby atmos mix using logic cuz the streaming service boost that in their algorithms. All the other daws are shitty at it. For dolby atmos it targets -20 lufs. You can mix for atmos with stereo headphones 
-
-# unnecessarily vulgar guide to micing a kick drum with an RE-20
-
-1. **Tune that fucker** - A shitty kick is gonna sound like a shitty kick even with the most fantastic mic, so tune that kick till it's flawless.
-
-2. **Get that mic up in this shit** - Grab your nearest short stand, and get that mic RIGHT up in there. Grab some earplugs and have the drummer play the kick, then get the mic as close as possible to the beater face without the mic actually getting hit. Oh, your reso head doesn't have a hole in it? Fuck you, grab a box cutter.
-
-3. **Route that fucker** - get that signal somewhere you can do something with it. Nice pres preferred, but I've gotten good results with the pres in a Digi002R so you don't need _great_ preamps.
-
-4. **EQ 4 DAYZ BRO** - Actually nah, just a gentle mid scoop so you can fit your vox and guitars and shit in there.
-
-5. **Squuuuuueeeeze that mofo** - Fairly fast, fairly gentle compression seems to suit the RE-20 best, but use what suits your genre.
-
-6. **Hit record** - Or don't, I don't own you.
-
-Figure out:
-
- how to record using take lanes
-
-Adding markers
-
-Inverting phase -> the phase button in any eq
-
-Changing bpm
-
-Make L & R mono tracks into 1 stereo
-
-Building ribbon mic: the microns of the aluminum foil is is antiproportional to output level. 1.2 microns -> 0.6 microns = +6db output level. Transient response is much more important which is a whole conundrum but I guess 1.2 microns is good enough since can't find 0.6 anywhere online. since neodymium magnets are much stronger thna the ones they had back in teh day when the 4038 was developed using like 1.2 - 1.8 microns is fine
-
-Reverse, put reverb, then back forward
-
-Winds of change podcast 
-
-Physical chorus is extremely hard to get good digitally 
-
-La-3A is a classic kick compressor
-
-HEDD type 20 speakers
-
-For creating a studio/room use diffusers over absorption. Bunch of foam will sound shit. Room has shit acoustics with bunch of foam, use diffusion.
-
-There exists a golden ratio for rooms to have the best sound
-
-You can get cheap used krk speakers for like 90 to build a system
-
-Get a left and right pitch shifter
-
-Morcheeba - big calm
-
-Air - moon safari 
-
-Riders on the storm - the door
-
-Sunbather - deafheaven
