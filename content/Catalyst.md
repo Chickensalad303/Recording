@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21T14:41:06.194+02:00
-modified: 2026-07-22T09:45:50.602+02:00
+modified: 2026-07-22T09:52:15.226+02:00
 ---
 
 - 1&2: Neve preamp (tge british)
