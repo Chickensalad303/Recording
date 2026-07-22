@@ -1,21 +1,19 @@
 ---
 publish: true
 created: 2026-07-21T14:41:06.194+02:00
-modified: 2026-07-22T01:16:24.806+02:00
+modified: 2026-07-22T09:28:35.916+02:00
 ---
 
 - 1&2: Neve preamp (tge british)
 - 3&4: Api 312 (the american)
 - 5&6: the polish preamps
 
-Mic & instrument level need preamp -> to line level. everything plugged in becomes line level to ensure uniformity in signal levels.
+Mic & instrument level need preamp ⟶ to line level. everything plugged in becomes line level to ensure uniformity in signal levels.
 
 Balanced / unbalanced:
 
 - TRS is unbalanced
 - XLR is balanced
-
-Use Patch bay to connect/route everything in the console. Inputs, outputs, compressors, saturators.
 
 Di box: instrument level to line level. Unbalanced to balanced. I.e. guitar/bass ⟶ into Di box ⟶ into preamp
 
@@ -23,9 +21,9 @@ Reamp box: changes balanced high impedance to unbalanced. Balanced to unbalanced
 
 Protools:
 Use aux channels like sends in ableton
-In pro tools it's all about the routing via  I / O. sending to other channels via busses etc.
+pro tools all about the routing via  I / O. sending to other channels via busses etc.
 
-when mixing:
+All plugins are designed to work with audio that peaks at -6 db?
 
 # Miking / recording
 
@@ -49,11 +47,9 @@ when mixing:
 
 **Drum Mics we used**
 kick - an egg mic (d112) apparently re20 sounds good on kicks too (its also good for bass amps)
-OH - mic like akg c414, we’ve also used tbone RB 500 ribbon mics, coles 4038
+OH - mic like akg c414, also used tbone RB 500 ribbon mics, coles 4038
 Snare - sm57 for top and bottom
 Sausage mic - beyerdynamic m160, a sm57 will work for this if pointed towards the middle of snare with more or less same distance from snare head, tom heads and kick beater
-
-All plugins are designed to work with audio that peaks at -6 db
 
 ## Piano
 
@@ -81,7 +77,7 @@ Mic pointing circa 45° angle towards the glue between dust cap and cone on the 
 
 its good to have a dry signal and a wet signal ⟶ use Di box, one straight to preamp, one to amp which is recorded with mic which is sent separate channel
 
-If you don't have a bass amp nothing wrong with a amp emulator to do the same
+nothing wrong with a amp emulator to do the same
 
 ## cello
 
@@ -98,7 +94,7 @@ Tube mic for female vocal
 MJ used sm7b
 taylor swift the Avantone Pro CV-12 (clone of AKG C 12)
 
-Use hand to make elephant from noseto place mic properly. Angle more towards chest for more bass, more up for more high end (but also gets mouth sounds). Always use a pop filter.
+thumb to pinky is good distance frmo mouth to mic. Angle more towards chest for more bass, more up for more high end (but also gets mouth sounds). Always use a pop filter.
 
 ## Stuff like trumpets / horns
 
@@ -112,13 +108,13 @@ Omni mic 
 ## Guitar
 
 Guitar amps: we used beyerdynamic ribbon mic + sm57.
-really just a well placed sm57 is all you need
+really just a well placed sm57 is good
 
 Blue sky pedal (has cool effects for everything guitar, drums, etc)
 
 Tube screamer is a must on guitar so it doesnt dissapear when all other instruments are playing (can use multiple. get them cheap they all sound the same)
 
-Digital chorus sucks compared to analog (at least on guitar apparently) so use pedal / amp with builtin chorus
+Digital chorus sucks compared to analog (at least on guitar apparently) so use pedal / amp with builtin chorus. can also reamp.
 
 Use an e-bow for cool effect they're all identical get them cheap
 
@@ -133,7 +129,7 @@ Use an e-bow for cool effect they're all identical get them cheap
 Shift + option + 3 to consolidate clips (protools)
 
 Set drop-down of track to playlist and then record. 
-To record new take click new playlist and record the 2nd take. Rinse and repeat. USE GROUPS so that this is done on all the tracks/mics. Also use groups to arm multiple tracks at the same time for recording (e.g. arm all drum tracks for recording)
+To record new take click new playlist and record the take. Rinse and repeat. USE GROUPS so that this is done on all the tracks/mics. Also use groups to arm multiple tracks at the same time for recording (e.g. arm all drum tracks for recording)
 
 # Compression
 
@@ -152,13 +148,20 @@ essentially compressors set a upper threshold for how loud the signal (the trans
 The attack on a compressor is how quickly the compressor will react to the signal crossing the threshold. e.g. if you compress drums you want attack to be slower so the first transients of the drums isnt compressed, which would make it sound less punchy.
 The release is then how fast the compressor reacts to the signal dipping below the threshold again.
 
-Doing this essentially squishes the sound together. the dynamic range is lessened. Thats why theres a ‘gain/makeup gain/output’ knob that makes the hole signal louder again after the compression. so now the whole dynamic range of what is being compressed is lower so if you match the output gain to the input gain. it will feel louder/more present despite teh actual Dbs being the same
+Doing this essentially squishes the sound together. the dynamic range is lessened. Thats why theres a ‘gain/makeup gain/output’ knob that makes the hole signal louder again after the compression. so now the whole dynamic range of what is being compressed is lower so if you match the output gain to the input gain. it will feel louder/more present despite teh actual peak dbs being the same
 
-# In the Box after recording
+# Mixing
+
+## Preparation
+
+First put everything in Phase. Then
+Organize & color code everything before mixing. Do not mix after 4pm. Mix when you get up early, when your ears are fresh and work quickly. Most pro mixing engineers will finish a track in 4-5h. Soloing is the enemy. The only thing that matters is how it sounds in context. Every morning you wake up your ears will be different so you can listen to something that sounds good to calibrate them. Don't mix loud. Mix quiet. It's gotta punch at low volume, it'll always punch at high volume anyway. Always mix at the same level. Always record at the same level. You mix only with busses and groups you don't touch the individual channels. Only after you've mixed you should tweak the individual tracks (snare, kick, etc). 
+
+## Individual elements in the box
 
 Aim for ~ -10 db on the master before proper mixing / mastering
 
-## Vocals
+### Vocals
 
 Always cut off all the noisy breath and lip smacks out of the vocal. If you keep them they'll become louder after the compression etc. if you want to keep some breaths reduce the gain on that part via automation 
 
@@ -180,7 +183,7 @@ Can use a tape delay on vocals. Can also use mono spring reverb on vocals. Can a
 
 You can duplicate the tracks. One clean one with compression then mix them together
 
-## Drums
+### Drums
 
 First check that everything is in phase. you can invert phase with any eq plugin. shift the OH tracks etc over so they match with the snare hit. if using top & bot snare mic they props be in opposite phase
 
@@ -194,7 +197,7 @@ On snare u can use a fet compressor (1176)
 
 You can send kick and snare to a parallel track and add saturation using decapacitator (soundtoys). Makes it sound more fat
 
-## Bass
+### Bass
 
 First check phase (if using Di & Amp)
 Use the di signal for the subbass use a eq to only get that lower end and put a limiter on it. if you want use a subharmonic plugin to get the subwoofers going
@@ -205,15 +208,9 @@ tube compression (La2a) is good for bass cuz it's slower so bass sounds rounder/
 
 bass always in the center/ mono
 
-## Guitar
+### Guitar
 
 kinda just do what sounds good idk. compression eq and tape delay? Plate verb works well for guitar?
-
-# Mixing
-
-## Preparation
-
-Organize & color code everything before mixing. Do not mix after 4pm. Mix when you get up early, when your ears are fresh and work quickly. Most pro mixing engineers will finish a track in 4-5h. Soloing is the enemy. The only thing that matters is how it sounds in context. Every morning you wake up your ears will be different so you can listen to something that sounds good to calibrate them. Don't mix loud. Mix quiet. It's gotta punch at low volume, it'll always punch at high volume anyway. Always mix at the same level. Always record at the same level. You mix only with busses and groups you don't touch the individual channels. Only after you've mixed you should tweak the individual tracks (snare, kick, etc). 
 
 ## Mixing
 
@@ -230,7 +227,7 @@ Important frequencies for snare: 200hz, 4k hz, 700 ~ 1k hz
 
 Snare and vocals often clash at around 200hz. when low mids are muddy start dipping the elements at those frequency ranges. if you dont dip vocals in the low mids you dip the guitar in the low mids. one has to dictate, both cant at teh same time. A good song will not have this issue as much. its an arrangement issue at its core. Write better songs
 
-<iframe src="https://www.theabsolutesound.com/freqchart/main_display.htm" style="width: auto; height: 700px; aspect-ratio: 8 / 7; transform-origin: top left; scale: 0.7; margin-bottom: -200px;"></iframe>
+<iframe src="https://www.theabsolutesound.com/freqchart/main_display.htm" style="width: auto; height: 700px; aspect-ratio: 8 / 7; transform-origin: top left; scale: 0.75; margin-bottom: -200px;"></iframe>
 
 > [!NOTE]- Frequency Charts
 > ![[attachments/Freq-Chart.jpg]]
