@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21T14:41:06.194+02:00
-modified: 2026-07-22T09:28:35.916+02:00
+modified: 2026-07-22T09:31:55.425+02:00
 ---
 
 - 1&2: Neve preamp (tge british)
@@ -227,7 +227,7 @@ Important frequencies for snare: 200hz, 4k hz, 700 ~ 1k hz
 
 Snare and vocals often clash at around 200hz. when low mids are muddy start dipping the elements at those frequency ranges. if you dont dip vocals in the low mids you dip the guitar in the low mids. one has to dictate, both cant at teh same time. A good song will not have this issue as much. its an arrangement issue at its core. Write better songs
 
-<iframe src="https://www.theabsolutesound.com/freqchart/main_display.htm" style="width: auto; height: 700px; aspect-ratio: 8 / 7; transform-origin: top left; scale: 0.75; margin-bottom: -200px;"></iframe>
+<iframe src="https://www.theabsolutesound.com/freqchart/main_display.htm" style="width: auto; height: 700px; aspect-ratio: 8 / 7; transform-origin: top left; scale: 0.75; margin-bottom: -180px;"></iframe>
 
 > [!NOTE]- Frequency Charts
 > ![[attachments/Freq-Chart.jpg]]
