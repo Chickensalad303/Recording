@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21T14:41:06.194+02:00
-modified: 2026-07-22T10:06:20.907+02:00
+modified: 2026-07-27T09:37:08.636+02:00
 ---
 
 - 1&2: Neve preamp (tge british)
@@ -117,6 +117,11 @@ Tube screamer is a must on guitar so it doesnt dissapear when all other instrume
 Digital chorus sucks compared to analog (at least on guitar apparently) so use pedal / amp with builtin chorus. can also reamp.
 
 Use an e-bow for cool effect they're all identical get them cheap
+
+## Other mics we used
+
+Warm Audio WA-47F
+oktava mk-012
 
 ## When recording
 
