@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-27T10:13:49.803+02:00
-modified: 2026-07-27T11:23:57.720+02:00
+created: 2026-07-27T08:13:49.803Z
+modified: 2026-07-27T09:23:57.720Z
 ---
 
 the 797 audio factory in china builds condenser mic capsules for many pro audio companies
