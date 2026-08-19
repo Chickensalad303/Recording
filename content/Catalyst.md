@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21T12:41:06.194Z
-modified: 2026-08-19T22:19:42.780Z
+modified: 2026-08-19T22:30:57.494Z
 ---
 
 - 1&2: Neve preamp (tge british)
@@ -189,6 +189,10 @@ Can use a tape delay on vocals. Can also use mono spring reverb on vocals. Can a
 You can duplicate the tracks. One clean one with compression then mix them together
 
 Vocals should always be 2-3db on top of the snare drum. so where they clash @ the same frequencies cut/boost so snare is under the vocal
+
+if vocal is clashing with stuff like 808s in the low mids, you duck the 808s and maybe turn up the vocal in the low mids.
+
+if doing 808 and live bass make them coexist by having 808s in its own defined range and bass in its own and maybe side chain it so live bass isnt drowned out
 
 ### Drums
 
