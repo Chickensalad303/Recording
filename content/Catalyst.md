@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21T12:41:06.194Z
-modified: 2026-07-27T07:37:08.636Z
+modified: 2026-08-19T22:19:42.780Z
 ---
 
 - 1&2: Neve preamp (tge british)
@@ -187,6 +187,8 @@ A de-esser is just a compressor with a fixed attack, fixed release and ratio, yo
 Can use a tape delay on vocals. Can also use mono spring reverb on vocals. Can also add little bit of flanger.
 
 You can duplicate the tracks. One clean one with compression then mix them together
+
+Vocals should always be 2-3db on top of the snare drum. so where they clash @ the same frequencies cut/boost so snare is under the vocal
 
 ### Drums
 
